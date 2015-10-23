@@ -29,6 +29,9 @@ int main(int argc, const char * argv[])
 {
     printf("sum = %i\n",demo(3, 2, minus));
     
+    printf("what the fuck with you?\n");
+    printf("what the fuck with you?\n");
+    printf("what the fuck with you?\n");
     
     return 0;
 }
